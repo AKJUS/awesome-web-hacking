@@ -151,6 +151,7 @@ Table of Contents
    * [https://columbus.elmasy.com/](https://columbus.elmasy.com/) - Columbus Project is an advanced subdomain discovery service with fast, powerful and easy to use API.
    * [BadUSB Script To Exfiltrate Passwords](https://github.com/MarkCyber/BadUSB/blob/main/HackStuff/CredentialHarvester.txt) - Extracts all saved passwords from Chrome, Firefox, and Edge to be saved onto secondary USB for further analysis.
    * https://github.com/flibustier/jwt-online-cracker - Brute-force HS256, HS384 or HS512 JWT Token from your browser (fully client-side).
+   * [jwt-auditor](https://github.com/mohelobeid/jwt-auditor) - Offline CLI to decode and audit JWTs for alg:none, weak HMAC secrets, and RS256 to HS256 confusion.
    * https://github.com/lukechilds/reverse-shell - Easy to remember reverse shell that should work on most Unix-like systems.
    * https://github.com/momenbasel/keyFinder - Chrome extension that passively scans web pages for leaked API keys, tokens, and secrets using 80+ detection patterns and Shannon entropy across 10 attack surfaces.
    * https://github.com/DenisPodgurskii/pentestkit - Browser-based vulnerability scanner for bug bounty and pentesting workflows, combining DAST, SAST, IAST, and SCA capabilities to detect runtime, source-level, interactive, and dependency-related security issues.
