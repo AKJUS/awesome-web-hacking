@@ -90,6 +90,7 @@ Table of Contents
    * https://github.com/WangYihang/Reverse-Shell-Manager - Reverse shell manager via terminal.
    * https://github.com/RUB-NDS/WS-Attacker - WS-Attacker is a modular framework for web services penetration testing
    * https://github.com/wpscanteam/wpscan - WPScan is a black box WordPress vulnerability scanner
+   * https://github.com/own2pwn-fr/wp2shell-detect - Blackbox, non-intrusive detector for the wp2shell pre-auth RCE chain in WordPress core (CVE-2026-63030 / CVE-2026-60137); fingerprints the core version from public sources and flags vulnerable installs without exploiting them
    * http://sourceforge.net/projects/paros/ Paros proxy
    * https://www.owasp.org/index.php/Category:OWASP_WebScarab_Project Web Scarab proxy
    * https://code.google.com/p/skipfish/ Skipfish, an active web application security reconnaissance tool
